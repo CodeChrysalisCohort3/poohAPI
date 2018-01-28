@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "city_id": 1,
+    "storename": "Yurakucho Bldg. 1F",
+    "address": "100-0006 Tokyo Chiyoda-ku 1-10-1 Yurakucho Yurakucho Bldg. 1F",
+    "telephone": "03-6250-1021",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=1259&search_condition=yurakucho&free_word=yurakucho&search_type=1&x=29&y=23&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 2,
+    "city_id": 1,
+    "storename": "Yurakucho Bldg. B1F",
+    "address": "100-0006 Tokyo Chiyoda-ku 1-10-1 Yurakucho Yurakucho Bldg. B1F",
+    "telephone": "03-5288-7075",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=420&search_condition=yurakucho&free_word=yurakucho&search_type=1&x=29&y=23&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 3,
+    "city_id": 1,
+    "storename": "JR Yurakucho Eki Kyobashiguchi",
+    "address": "100-0006 Tokyo Chiyoda-ku 2-9　Yurakucho",
+    "telephone": "03-6870-6070",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=2047&search_condition=yurakucho&free_word=yurakucho&search_type=1&x=29&y=23&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 4,
+    "city_id": 2,
+    "storename": "Ginza Marronnier-dori",
+    "address": "104-0061 Tokyo Chuo-ku 3-7-3 Ginza Ginza Omi Bldg.",
+    "telephone": "03-3567-5713",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=197&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 5,
+    "city_id": 2,
+    "storename": "Ginza Matsuya-dori",
+    "address": "104-0061 Tokyo Chuo-ku 3-7-14 Ginza ESK Bldg.",
+    "telephone": "03-5250-2751",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=1&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 6,
+    "city_id": 2,
+    "storename": "Ginza Corridor-dori",
+    "address": "104-0061 Tokyo Chuo-ku 7-2-22 Ginza Ginza Dowa Bldg.",
+    "telephone": "03-3575-0938",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=60&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 7,
+    "city_id": 2,
+    "storename": "Higashi-ginza",
+    "address": "104-0061 Tokyo Chuo-ku 5-15-8 Ginza Jijitsushin Bldg.",
+    "telephone": "03-3544-6240",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=520&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 8,
+    "city_id": 2,
+    "storename": "GINZA FIVE",
+    "address": "104-0061 Tokyo Chuo-ku 5-1saki Ginza GINZA FIVE",
+    "telephone": "03-6252-5995",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=902&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 9,
+    "city_id": 2,
+    "storename": "Echika fit Ginza",
+    "address": "104-0061 Tokyo Chuo-ku 4-1-2 Ginza",
+    "telephone": "03-5159-5486",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=1241&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 10,
+    "city_id": 2,
+    "storename": "Ginza TSUTAYA BOOKS",
+    "address": "104-0061 Tokyo Chuo-ku 6-10-1 Ginza GINZA SIX 6F",
+    "telephone": "03-3575-6080",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=2084&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 11,
+    "city_id": 2,
+    "storename": "GINZA SIX",
+    "address": "104-0061 Tokyo Chuo-ku 6-10-1 Ginza",
+    "telephone": "03-5537-7303",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=1374&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 12,
+    "city_id": 2,
+    "storename": "MARRONNIER GATE GINZA1",
+    "address": "104-0061 Tokyo Chuo-ku 2-2-14 Ginza MARRONNIER GATE GINZA1",
+    "telephone": "03-5524-1636",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=1485&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  },
+  {
+    "id": 13,
+    "city_id": 2,
+    "storename": "GINZA EXITMELSA",
+    "address": "104-0061 Tokyo Chuo-ku 5-7-10 Ginza",
+    "telephone": "03-3569-0107",
+    "wifi": true,
+    "url": "http://www.starbucks.co.jp/en/search/detail.php?id=1539&search_condition=Ginza&free_word=Ginza&search_type=1&x=0&y=0&pref_code=&city=&search_by_address_flg=&store_type_3=" 
+  }
+]

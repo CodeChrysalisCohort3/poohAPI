@@ -1,0 +1,47 @@
+{
+  "name": "poohAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --watch",
+    "start": "webpack-dev-server --hot --inline",
+    "server": "node ./server/index.js",
+    "seed": "knex seed:run --knexfile ./server/db/knexfile.js",
+    "migrate": "knex migrate:latest --knexfile ./server/db/knexfile.js",
+    "rollback": "knex migrate:rollback --knexfile ./server/db/knexfile.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeChrysalisCohort3/poohAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeChrysalisCohort3/poohAPI/issues"
+  },
+  "homepage": "https://github.com/CodeChrysalisCohort3/poohAPI#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "pg": "^7.4.1",
+    "pg-native": "^2.2.0",
+    "query-string": "^5.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-google-maps": "^9.4.5",
+    "react-router-dom": "^4.2.2"
+  }
+}
